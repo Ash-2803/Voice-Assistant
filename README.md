@@ -1,7 +1,7 @@
-# 🗣️ Ash Voice Assistant (Python)
+# 🗣️ Ayush Voice Assistant (Python)
 
 A personal voice-controlled assistant built using Python.  
-It listens for the wake word **“Ash”** or **“Ashh”**, responds intelligently, and performs actions based on your voice commands.
+It listens for the wake word **“Ayush”** or **“Ayushh”**, responds intelligently, and performs actions based on your voice commands.
 
 ---
 
@@ -12,7 +12,7 @@ Your assistant currently supports:
 ---
 
 ### 🔊 Voice Recognition
-- Wake word detection (“Ash” / “Ashh”)
+- Wake word detection (“Ayush” / “Ayushh”)
 - Converts speech → text using Google Speech Recognition
 - Speaks responses aloud with `pyttsx3`
 
@@ -97,7 +97,7 @@ This project already ignores it using `.gitignore`.
 Clone the repository:
 
 ```bash
-git clone https://github.com/Ash-2803/Voice-Assistant.git
+git clone https://github.com/Ayush-2803/Voice-Assistant.git
 
 cd Voice-Assistant
 python -m venv .venv
@@ -112,7 +112,7 @@ YOUTUBE_API_KEY=your_youtube_api_key_here
 
 Run the assistant:
 
-```bash
+```bAyush
 python main.py
 ``` 
 ---## 🤝 Contributing
